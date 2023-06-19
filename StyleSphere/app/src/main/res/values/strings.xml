@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StyleSphere</string>
+    <string name="login_title" />
+    <string name="email_label" />
+    <string name="password_label" />
+    <string name="login_button_label" />
+    <string name="register_button_label" />
+    <string name="register_title" />
+</resources>
