@@ -4,5 +4,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary_color">#27374D</color>
     <color name="secondary_color">#526D82</color>
+    <color name="primaryColor">#3F51B5</color>
+    <color name="primaryVariantColor">#303F9F</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="secondaryColor">#FF4081</color>
+    <color name="secondaryVariantColor">#F50057</color>
+    <color name="onSecondaryColor">#FFFFFF</color>
 
 </resources>
